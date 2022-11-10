@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+credentials.json
+data.csv
+test.py
+token.json
+image_being_processed.jpg
+checkpoint_dict.npy
