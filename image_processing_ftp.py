@@ -1,8 +1,9 @@
 import os
-import skimage
-import paramiko
-import numpy as np
+
 import matplotlib.pyplot as plt
+import numpy as np
+import paramiko
+import skimage
 
 STPF_URL = ''
 STPF_USER = ''
